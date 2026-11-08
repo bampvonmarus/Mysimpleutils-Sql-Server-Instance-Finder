@@ -192,4 +192,4 @@ This repository serves as the official landing page for MySimpleUtils SQL Server
 **Get the most recent version of MySimpleUtils SQL Server Instance Finder today!**
 
 ---
-**Last updated:** 2026-11-07 22:35:36 UTC
+**Last updated:** 2026-11-08 02:10:49 UTC
